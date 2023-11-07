@@ -29,9 +29,6 @@ ul li{
     padding: 10px;
 }
 li{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
     background-color: cadetblue;
     margin-bottom: 10px;
     border-radius: 5px;
